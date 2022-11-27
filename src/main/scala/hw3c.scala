@@ -7,12 +7,10 @@
 import io.StdIn
 object hw3c {
   def main(args: Array[String]): Unit = {
-    print("Укажите размер годовой зарплаты: ")
-    val yearSal = StdIn.readFloat()
-    print("Укажите процент премии: ")
-    val bonus = hw3b.readBonus()
-    print("Укажите размер компенсации питания: ")
-    val foodComp = StdIn.readFloat()
+    val inputData = hw3b.input()
+    val yearSal = inputData(0)
+    val bonus = inputData(1)
+    val foodComp = inputData(2)
     val salary = hw3b.fullSalary(yearSal, bonus, foodComp)
     val listOfSalaries = List(100000f, 150000f, 200000f, 80000f, 120000f, 75000f)
     val salDeviation = salaryDeviation(salary, listOfSalaries)

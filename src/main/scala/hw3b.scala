@@ -7,12 +7,10 @@ import scala.io.StdIn
 
 object hw3b {
   def main(args: Array[String]): Unit = {
-    print("Укажите размер годовой зарплаты: ")
-    val yearSal = StdIn.readFloat()
-    print("Укажите процент премии: ")
-    val bonus = readBonus()
-    print("Укажите размер компенсации питания: ")
-    val foodComp = StdIn.readFloat()
+    val inputData = input()
+    val yearSal = inputData(0)
+    val bonus = inputData(1)
+    val foodComp = inputData(2)
     println(s"Ежемесячный оклад сотрудника после вычета налогов: ${fullSalary(yearSal, bonus, foodComp)}")
   }
 
@@ -24,13 +22,21 @@ object hw3b {
   def readBonus(): Float = {
     var B = StdIn.readLine()
     if (B.trim.last == '%') {B = B.init}
-    if (B.toFloat > 1) {
+    if (math.abs(B.toFloat) > 1) {
       B.toFloat / 100
    }
     else {
       B.toFloat
     }
+  }
 
-
+  def input(): Array[Float] = {
+    print("Укажите размер годовой зарплаты: ")
+    val a = StdIn.readFloat()
+    print("Укажите процент премии: ")
+    val b = readBonus()
+    print("Укажите размер компенсации питания: ")
+    val c = StdIn.readFloat()
+    Array(a, b, c)
   }
 }
