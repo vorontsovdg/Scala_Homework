@@ -1,8 +1,8 @@
 [0m[[0mdebug[0m] [0m[naha] [0m
 [0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
 [0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
-[0m[[0mdebug[0m] [0m[naha] 	added: Set(/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3e.scala)[0m
-[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set(/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3e.scala)[0m
 [0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
@@ -17,20 +17,13 @@
 [0m[[0minfo[0m] [0mCompiling 1 Scala source to /home/me/IdeaProjects/Scala_Homework/target/scala-2.13/classes...[0m
 [0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.18:component from component compiler for Scala 2.13.10[0m
 [0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.18:component from component compiler for Scala 2.13.10[0m
-[0m[[0mdebug[0m] [0mRunning cached compiler 2e3c1747, interfacing (CompilerInterface) with Scala compiler version 2.13.10[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 2073529b, interfacing (CompilerInterface) with Scala compiler version 2.13.10[0m
 [0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
 [0m[[0mdebug[0m] [0m	-bootclasspath[0m
 [0m[[0mdebug[0m] [0m	/home/me/.jdks/temurin-1.8.0_352/jre/lib/resources.jar:/home/me/.jdks/temurin-1.8.0_352/jre/lib/rt.jar:/home/me/.jdks/temurin-1.8.0_352/jre/lib/sunrsasign.jar:/home/me/.jdks/temurin-1.8.0_352/jre/lib/jsse.jar:/home/me/.jdks/temurin-1.8.0_352/jre/lib/jce.jar:/home/me/.jdks/temurin-1.8.0_352/jre/lib/charsets.jar:/home/me/.jdks/temurin-1.8.0_352/jre/lib/jfr.jar:/home/me/.jdks/temurin-1.8.0_352/jre/classes:/home/me/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.13.10.jar[0m
 [0m[[0mdebug[0m] [0m	-classpath[0m
 [0m[[0mdebug[0m] [0m	/home/me/IdeaProjects/Scala_Homework/target/scala-2.13/classes[0m
-[0m[[0mdebug[0m] [0mScala compilation took 0.072936063 s[0m
-[0m[[0mdebug[0m] [0m[naha] Invalidating /home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3e.scala...[0m
-[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3e.scala...[0m
-[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3e.scala)[0m
-[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3e.scala)[0m
-[0m[[0mdebug[0m] [0m[naha] The /home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3e.scala source file has the following regular definitions changed:[0m
-[0m[[0mdebug[0m] [0m[naha] 	notify, wait, equals, hw3e, asInstanceOf, synchronized, main, notifyAll, isInstanceOf, ==, clone, toString, !=, getClass, ne, eq, ##, finalize, hashCode.[0m
-[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mScala compilation took 0.069943911 s[0m
 [0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
 [0m[[0mdebug[0m] [0m[naha] 	Set()[0m
 [0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
