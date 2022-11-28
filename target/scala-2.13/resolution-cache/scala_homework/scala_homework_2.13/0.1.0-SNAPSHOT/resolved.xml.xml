@@ -4,7 +4,7 @@
 		module="scala_homework_2.13"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20221127223240"
+		publication="20221128210242"
 	>
 		<description>
 		Scala_Homework
@@ -34,5 +34,8 @@
 	<dependencies>
 		<dependency org="org.scala-lang" name="scala-compiler" rev="2.13.10" conf="scala-tool->default,optional(default)"/>
 		<dependency org="org.scala-lang" name="scala-library" rev="2.13.10" conf="scala-tool->default,optional(default);compile->default(compile)"/>
+		<dependency org="com.typesafe.akka" name="akka-stream_2.13" rev="2.5.26" conf="compile->default(compile)"/>
+		<dependency org="com.typesafe.akka" name="akka-http_2.13" rev="10.1.11" conf="compile->default(compile)"/>
+		<dependency org="com.typesafe.akka" name="akka-http-spray-json_2.13" rev="10.1.11" conf="compile->default(compile)"/>
 	</dependencies>
 </ivy-module>

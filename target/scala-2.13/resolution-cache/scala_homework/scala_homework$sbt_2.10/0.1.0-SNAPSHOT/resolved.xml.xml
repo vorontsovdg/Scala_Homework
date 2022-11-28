@@ -4,7 +4,7 @@
 		module="scala_homework$sbt_2.10"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20221127225228"
+		publication="20221128015606"
 	/>
 	<configurations>
 		<conf name="default" visibility="public"/>
