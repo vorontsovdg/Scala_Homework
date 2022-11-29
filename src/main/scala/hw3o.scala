@@ -17,7 +17,7 @@ object hw3o {
       }
     }
 
-
+//Хвостовая
     def powerOfTwoTailrec(n: Int): BigInt = {
       @tailrec
       def loop(x: Int, acc:BigInt = 2): BigInt = {

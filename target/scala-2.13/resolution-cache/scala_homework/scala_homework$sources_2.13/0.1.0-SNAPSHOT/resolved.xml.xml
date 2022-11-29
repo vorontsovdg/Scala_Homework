@@ -4,7 +4,7 @@
 		module="scala_homework$sources_2.13"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20221128015606"
+		publication="20221129214254"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>

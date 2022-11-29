@@ -1,13 +1,13 @@
 [0m[[0mdebug[0m] [0mOther repositories:[0m
 [0m[[0mdebug[0m] [0mDefault repositories:[0m
 [0m[[0mdebug[0m] [0mUsing inline dependencies specified in Scala.[0m
-[0m[[0mdebug[0m] [0mno default cache defined: set to /home/me/.ivy2/cache[0m
 [0m[[0mdebug[0m] [0m:: resolving dependencies :: scala_homework#scala_homework$sbt_2.10;0.1.0-SNAPSHOT[0m
 [0m[[0mdebug[0m] [0m	confs: [default][0m
 [0m[[0mdebug[0m] [0m	validate = true[0m
 [0m[[0mdebug[0m] [0m	refresh = false[0m
 [0m[[0mdebug[0m] [0mresolving dependencies for configuration 'default'[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies for scala_homework#scala_homework$sbt_2.10;0.1.0-SNAPSHOT [default][0m
+[0m[[0mdebug[0m] [0mno default cache defined: set to /home/me/.ivy2/cache[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies scala_homework#scala_homework$sbt_2.10;0.1.0-SNAPSHOT->org.scala-sbt#sbt;0.13.18 [default->default(compile)][0m
 [0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.7 {default=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.7 {default=[default(compile)]}[0m
 [0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-reflect;2.10.7 {default=[default(compile)]} => dependency: org.scala-lang#scala-reflect;2.10.7 {default=[default(compile)]}[0m
@@ -2854,9 +2854,9 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.18!apply-macro.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#template-resolver;0.1!template-resolver.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.jboss.interceptor#jboss-interceptor-api;1.1!jboss-interceptor-api.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 196ms :: artifacts dl 7ms[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 252ms :: artifacts dl 9ms[0m
 [0m[[0mdebug[0m] [0m	report for scala_homework#scala_homework$sbt_2.10;0.1.0-SNAPSHOT default produced in /home/me/IdeaProjects/Scala_Homework/target/scala-2.13/resolution-cache/reports/scala_homework-scala_homework$sbt_2.10-default.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (196ms resolve - 7ms download)[0m
+[0m[[0mdebug[0m] [0m	resolve done (252ms resolve - 9ms download)[0m
 [0m[[0mdebug[0m] [0mUsing inline dependencies specified in Scala.[0m
 [0m[[0mdebug[0m] [0m:: resolving dependencies :: scala_homework#scala_homework$sources_2.10;0.1.0-SNAPSHOT[0m
 [0m[[0mdebug[0m] [0m	confs: [default][0m
@@ -4170,6 +4170,6 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.apache.ant#ant;1.9.9!ant.jar(src)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] javax.inject#javax.inject;1!javax.inject.jar(src)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.18!apply-macro.jar(src)[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 57ms :: artifacts dl 8ms[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 96ms :: artifacts dl 6ms[0m
 [0m[[0mdebug[0m] [0m	report for scala_homework#scala_homework$sources_2.10;0.1.0-SNAPSHOT default produced in /home/me/IdeaProjects/Scala_Homework/target/scala-2.13/resolution-cache/reports/scala_homework-scala_homework$sources_2.10-default.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (57ms resolve - 8ms download)[0m
+[0m[[0mdebug[0m] [0m	resolve done (96ms resolve - 6ms download)[0m

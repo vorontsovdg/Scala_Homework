@@ -32,9 +32,9 @@ products:
 /home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3d.scala -> /home/me/IdeaProjects/Scala_Homework/target/scala-2.13/classes/hw3d.class
 /home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3e_f_g_h.scala -> /home/me/IdeaProjects/Scala_Homework/target/scala-2.13/classes/hw3e_f_g_h$.class
 /home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3e_f_g_h.scala -> /home/me/IdeaProjects/Scala_Homework/target/scala-2.13/classes/hw3e_f_g_h.class
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> /home/me/IdeaProjects/Scala_Homework/target/scala-2.13/classes/employee.class
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> /home/me/IdeaProjects/Scala_Homework/target/scala-2.13/classes/hw3k$.class
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> /home/me/IdeaProjects/Scala_Homework/target/scala-2.13/classes/hw3k.class
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> /home/me/IdeaProjects/Scala_Homework/target/scala-2.13/classes/employee.class
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> /home/me/IdeaProjects/Scala_Homework/target/scala-2.13/classes/hw3i_k_l_m$.class
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> /home/me/IdeaProjects/Scala_Homework/target/scala-2.13/classes/hw3i_k_l_m.class
 /home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3o.scala -> /home/me/IdeaProjects/Scala_Homework/target/scala-2.13/classes/hw3o$.class
 /home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3o.scala -> /home/me/IdeaProjects/Scala_Homework/target/scala-2.13/classes/hw3o.class
 binary dependencies:
@@ -51,8 +51,8 @@ binary dependencies:
 /home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3d.scala -> /home/me/.jdks/temurin-1.8.0_352/jre/lib/rt.jar
 /home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3e_f_g_h.scala -> /home/me/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.13.10.jar
 /home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3e_f_g_h.scala -> /home/me/.jdks/temurin-1.8.0_352/jre/lib/rt.jar
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> /home/me/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.13.10.jar
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> /home/me/.jdks/temurin-1.8.0_352/jre/lib/rt.jar
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> /home/me/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.13.10.jar
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> /home/me/.jdks/temurin-1.8.0_352/jre/lib/rt.jar
 /home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3o.scala -> /home/me/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.13.10.jar
 /home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3o.scala -> /home/me/.jdks/temurin-1.8.0_352/jre/lib/rt.jar
 direct source dependencies:
@@ -87,13 +87,13 @@ class names:
 /home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3d.scala -> hw3d$
 /home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3e_f_g_h.scala -> hw3e_f_g_h
 /home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3e_f_g_h.scala -> hw3e_f_g_h$
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> employee
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> hw3k
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> hw3k$
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> employee
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> hw3i_k_l_m
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> hw3i_k_l_m$
 /home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3o.scala -> hw3o
 /home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3o.scala -> hw3o$
 used names:
-345 items
+392 items
 /home/me/IdeaProjects/Scala_Homework/src/main/scala/App.scala -> <init>
 /home/me/IdeaProjects/Scala_Homework/src/main/scala/App.scala -> Any
 /home/me/IdeaProjects/Scala_Homework/src/main/scala/App.scala -> AnyRef
@@ -339,75 +339,122 @@ used names:
 /home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3e_f_g_h.scala -> sorted
 /home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3e_f_g_h.scala -> until
 /home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3e_f_g_h.scala -> x
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> &&
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> *
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> +
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> <
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> <=
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> <init>
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> <refinement>
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> <repeated>
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> >=
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> A
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> A0
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> Any
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> AnyRef
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> Array
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> Boolean
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> BuildFrom
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> C
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> CC
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> Double
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> Float
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> Function1
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> Int
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> Iterable
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> IterableOnce
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> IterableOps
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> List
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> ListBuffer
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> Nothing
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> Object
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> Predef
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> Random
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> String
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> StringContext
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> T
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> U
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> Unit
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> X
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> _$14
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> addOne
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> apply
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> buildFromIterableOps
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> collection
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> emp
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> employee
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> employees
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> firstName
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> foreach
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> head
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> hw3k
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> i
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> info
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> lastName
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> listOfFirstNames
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> listOfLastNames
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> listOfSalaries
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> lvl
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> mutable
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> name
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> package
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> percent
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> println
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> s
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> salary
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> salary_=
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> scala
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> shuffle
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> surname
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> toFloat
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> util
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> &&
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> *
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> +
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> -
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> ->
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> /
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> <
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> <:<
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> <=
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> <init>
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> <refinement>
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> <repeated>
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> =:=
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> >=
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> A
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> A0
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> Any
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> AnyRef
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> Array
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> ArrowAssoc
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> B
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> Boolean
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> BuildFrom
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> C
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> CC
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> Char
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> DeprecatedFloatOrdering
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> Double
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> Float
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> FloatIsFractional
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> Function1
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> Int
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> Iterable
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> IterableOnce
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> IterableOps
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> K
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> List
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> ListBuffer
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> Map
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> Nothing
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> Numeric
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> Object
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> Ordering
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> Predef
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> Random
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> String
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> StringContext
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> StringOps
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> T
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> Tuple2
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> U
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> Unit
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> V
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> WithFilter
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> X
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> _$14
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> addOne
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> apply
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> augmentString
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> avgDepartmentSalary
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> buildFromIterableOps
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> collection
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> contains
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> emp
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> employee
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> employees
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> firstName
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> foreach
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> fuzz
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> giveRise
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> groupBy
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> groupedLvl
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> head
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> highSalary
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> hw3i_k_l_m
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> i
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> info
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> lastName
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> listOfEmployees
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> listOfFirstNames
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> listOfLastNames
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> listOfSalaries
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> lowSalary
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> lvl
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> map
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> math
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> maxBy
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> minBy
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> mutable
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> name
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> package
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> percent
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> println
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> refl
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> reverse
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> rizePercent
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> s
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> salary
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> salaryMarket
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> salary_=
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> scala
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> setLvl
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> shuffle
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> size
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> sum
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> surname
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> toDouble
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> toFloat
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> toList
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> toLowerCase
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> toMap
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> unary_!
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> util
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> vowels
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> withFilter
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> x
 /home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3o.scala -> *
 /home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3o.scala -> -
 /home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3o.scala -> <init>
@@ -443,7 +490,7 @@ product stamps:
 17 items
 /home/me/IdeaProjects/Scala_Homework/target/scala-2.13/classes/App$.class -> lastModified(1669569747943)
 /home/me/IdeaProjects/Scala_Homework/target/scala-2.13/classes/App.class -> lastModified(1669569747943)
-/home/me/IdeaProjects/Scala_Homework/target/scala-2.13/classes/employee.class -> lastModified(1669648695754)
+/home/me/IdeaProjects/Scala_Homework/target/scala-2.13/classes/employee.class -> lastModified(1669734153409)
 /home/me/IdeaProjects/Scala_Homework/target/scala-2.13/classes/hw3a$.class -> lastModified(1669569747946)
 /home/me/IdeaProjects/Scala_Homework/target/scala-2.13/classes/hw3a.class -> lastModified(1669569747946)
 /home/me/IdeaProjects/Scala_Homework/target/scala-2.13/classes/hw3b$.class -> lastModified(1669570870511)
@@ -454,10 +501,10 @@ product stamps:
 /home/me/IdeaProjects/Scala_Homework/target/scala-2.13/classes/hw3d.class -> lastModified(1669570990992)
 /home/me/IdeaProjects/Scala_Homework/target/scala-2.13/classes/hw3e_f_g_h$.class -> lastModified(1669648325337)
 /home/me/IdeaProjects/Scala_Homework/target/scala-2.13/classes/hw3e_f_g_h.class -> lastModified(1669648325340)
-/home/me/IdeaProjects/Scala_Homework/target/scala-2.13/classes/hw3k$.class -> lastModified(1669648695754)
-/home/me/IdeaProjects/Scala_Homework/target/scala-2.13/classes/hw3k.class -> lastModified(1669648695754)
-/home/me/IdeaProjects/Scala_Homework/target/scala-2.13/classes/hw3o$.class -> lastModified(1669574939696)
-/home/me/IdeaProjects/Scala_Homework/target/scala-2.13/classes/hw3o.class -> lastModified(1669574939696)
+/home/me/IdeaProjects/Scala_Homework/target/scala-2.13/classes/hw3i_k_l_m$.class -> lastModified(1669734153406)
+/home/me/IdeaProjects/Scala_Homework/target/scala-2.13/classes/hw3i_k_l_m.class -> lastModified(1669734153406)
+/home/me/IdeaProjects/Scala_Homework/target/scala-2.13/classes/hw3o$.class -> lastModified(1669734130826)
+/home/me/IdeaProjects/Scala_Homework/target/scala-2.13/classes/hw3o.class -> lastModified(1669734130826)
 source stamps:
 8 items
 /home/me/IdeaProjects/Scala_Homework/src/main/scala/App.scala -> hash(2e304fd8c4fef148ddd6f763a8ad5a3d323b5dca)
@@ -466,15 +513,15 @@ source stamps:
 /home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3c.scala -> hash(f1100c63dbc32ebaa7f82009088566eca0fbb2b9)
 /home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3d.scala -> hash(c214b7d5a27398afd98088f76e8427e3452fd28d)
 /home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3e_f_g_h.scala -> hash(f49ba9d260ade63c3d1bfd859c5171caa53eb476)
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> hash(1c3423b5af3792b91c64de8a8a1a0bdf7d22a7d1)
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3o.scala -> hash(0e43b6ee357fa669a7df014c16f73ab9c1bf2701)
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> hash(d00ebf1ef829c9fa1e990634aae1ac87e7ceaeae)
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3o.scala -> hash(49f3283f0e385a79b441fb8d4ecaa571acacb70b)
 binary stamps:
 2 items
 /home/me/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.13.10.jar -> lastModified(1665252992000)
 /home/me/.jdks/temurin-1.8.0_352/jre/lib/rt.jar -> lastModified(1668787010594)
 class names:
 2 items
-/home/me/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.13.10.jar -> scala.util.Random
+/home/me/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.13.10.jar -> scala.collection.mutable.ListBuffer$
 /home/me/.jdks/temurin-1.8.0_352/jre/lib/rt.jar -> java.lang.Object
 internal apis:
 8 items
@@ -490,10 +537,10 @@ rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBo
 rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwrUeOFwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAATc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwj06oqXQABm5vdGlmeXNxAH4ADJXZqBp0AARodzNkc3EAfgAMT0PkRXQABHdhaXRzcQB+AAwdcB8AdAAGZXF1YWxzc3EAfgAMOvraFHQADGFzSW5zdGFuY2VPZnNxAH4ADP5krTB0AAxzeW5jaHJvbml6ZWRzcQB+AAyfeduAdAAEbWFpbnNxAH4ADEFSY9J0AAlub3RpZnlBbGxzcQB+AAwfSAY6dAAMaXNJbnN0YW5jZU9mc3EAfgAMLUEzGHQAAj09c3EAfgAMIQonoXQABWNsb25lc3EAfgAMgLPutHQACHRvU3RyaW5nc3EAfgAMheYZQHQAAiE9c3EAfgAMFVcreXQACGdldENsYXNzc3EAfgAMEf9eG3QAAm5lc3EAfgAMMbBoYHQAAmVxc3EAfgAMPKIqPHQAAiMjc3EAfgAMBlB40HQACGZpbmFsaXplc3EAfgAMhbNTL3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4APXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgARdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQADHNjYWxhLm5hdGl2ZXNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBVc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AD1MAAlpbmhlcml0ZWRxAH4APUwAB3BhcmVudHNxAH4APXhxAH4AWnNxAH4AVXVxAH4AOAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4APnEAfgBHdXEAfgBIAAAAAHNxAH4ASgBxAH4AG3VxAH4ATAAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBZdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AWXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AdXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGJ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AE90AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AGlbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AFlzcQB+AGh0AAVBcnJheXEAfgBudXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGh0AAZTdHJpbmdzcQB+AGxzcQB+AG91cQB+AHIAAAADc3EAfgB0dAAEamF2YXNxAH4AdHQABGxhbmdxAH4AeXNxAH4AVXVxAH4AOAAAAABzcQB+AFV1cQB+AI0AAAACc3EAfgBodAAGT2JqZWN0cQB+AJFzcQB+AGh0AANBbnlxAH4AbnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAGEui+TSnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AD4vaG9tZS9tZS9JZGVhUHJvamVjdHMvU2NhbGFfSG9tZXdvcmsvdGFyZ2V0L3NjYWxhLTIuMTMvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFMIUt9Wic5iv2YCI926EJ+NFL9KN
 /home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3e_f_g_h.scala -> 
 rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw/uD6zwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAATc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw0+w2jXQABm5vdGlmeXNxAH4ADFStaap0AAR3YWl0c3EAfgAMh7R+yHQABmVxdWFsc3NxAH4ADE/JCfR0AAxhc0luc3RhbmNlT2ZzcQB+AAxcZr7TdAAMc3luY2hyb25pemVkc3EAfgAMkyks6nQABG1haW5zcQB+AAzjcogMdAAJbm90aWZ5QWxsc3EAfgAMovYVBnQADGlzSW5zdGFuY2VPZnNxAH4ADN5VBFN0AApodzNlX2ZfZ19oc3EAfgAM51uaVXQAAj09c3EAfgAMIdT1enQABWNsb25lc3EAfgAMj1iBunQACHRvU3RyaW5nc3EAfgAMhLQFY3QAAiE9c3EAfgAMfPRVtHQACGdldENsYXNzc3EAfgAMthrzoXQAAm5lc3EAfgAM/bfqIHQAAmVxc3EAfgAMZs3KOXQAAiMjc3EAfgAMPres63QACGZpbmFsaXplc3EAfgAMlC+b2nQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4APXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgAfdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQADHNjYWxhLm5hdGl2ZXNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBVc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AD1MAAlpbmhlcml0ZWRxAH4APUwAB3BhcmVudHNxAH4APXhxAH4AWnNxAH4AVXVxAH4AOAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4APnEAfgBHdXEAfgBIAAAAAHNxAH4ASgBxAH4AGXVxAH4ATAAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBZdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AWXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AdXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGJ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AE90AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AGlbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AFlzcQB+AGh0AAVBcnJheXEAfgBudXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGh0AAZTdHJpbmdzcQB+AGxzcQB+AG91cQB+AHIAAAADc3EAfgB0dAAEamF2YXNxAH4AdHQABGxhbmdxAH4AeXNxAH4AVXVxAH4AOAAAAABzcQB+AFV1cQB+AI0AAAACc3EAfgBodAAGT2JqZWN0cQB+AJFzcQB+AGh0AANBbnlxAH4AbnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAGEvsuSvHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AD4vaG9tZS9tZS9JZGVhUHJvamVjdHMvU2NhbGFfSG9tZXdvcmsvdGFyZ2V0L3NjYWxhLTIuMTMvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFPSbqdJgreY8PRv9hZxRccqlPrR2
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwexB1qwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAcc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwrGyOOXQABm5vdGlmeXNxAH4ADKyPfFV0AAR3YWl0c3EAfgAM2qico3QABnNldEx2bHNxAH4ADPEiZJN0AARodzNrc3EAfgAMa7VmnnQABmVxdWFsc3NxAH4ADIjgDYJ0AAhlbXBsb3llZXNxAH4ADJE+Fvx0AAxhc0luc3RhbmNlT2ZzcQB+AAzjZUG4dAAMc3luY2hyb25pemVkc3EAfgAMzi3Q4nQAA2x2bHNxAH4ADCzJJvR0AARtYWluc3EAfgAMLDhqxHQABGluZm9zcQB+AAxtdi4kdAAIZ2l2ZVJpemVzcQB+AAxRdaqddAAJbm90aWZ5QWxsc3EAfgAMicJlY3QADGlzSW5zdGFuY2VPZnNxAH4ADIZQtnl0AAZzYWxhcnlzcQB+AAx573PHdAAIbGFzdE5hbWVzcQB+AAy68cBidAAJZmlyc3ROYW1lc3EAfgAMaqpqEHQABjxpbml0PnNxAH4ADCfHJ7F0AAI9PXNxAH4ADKnJWXZ0AAVjbG9uZXNxAH4ADHf54iR0AAh0b1N0cmluZ3NxAH4ADGVgkEp0AAIhPXNxAH4ADAZVMNt0AAhnZXRDbGFzc3NxAH4ADP9gqwd0AAJuZXNxAH4ADFJA2910AAJlcXNxAH4ADH2R/mx0AAIjI3NxAH4ADNCndg50AAhmaW5hbGl6ZXNxAH4ADAev1Ux0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AE94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AFXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAF0AAxzY2FsYS5uYXRpdmVzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AZ3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBPTAAJaW5oZXJpdGVkcQB+AE9MAAdwYXJlbnRzcQB+AE94cQB+AGxzcQB+AGd1cQB+AEoAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AFBxAH4AWXVxAH4AWgAAAABzcQB+AFwAcQB+ACF1cQB+AF4AAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Aa3QABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGtzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AId1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgB0eHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBhdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgB7WwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBrc3EAfgB6dAAFQXJyYXlxAH4AgHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgB6dAAGU3RyaW5nc3EAfgB+c3EAfgCBdXEAfgCEAAAAA3NxAH4AhnQABGphdmFzcQB+AIZ0AARsYW5ncQB+AItzcQB+AGd1cQB+AEoAAAAAc3EAfgBndXEAfgCfAAAAAnNxAH4AenQABk9iamVjdHEAfgCjc3EAfgB6dAADQW55cQB+AIBzcQB+AExxAH4AWXVxAH4AWgAAAABzcQB+AFwAcQB+ABl1cQB+AF4AAAAAfnEAfgBgdAAIQ2xhc3NEZWZ1cQB+AGQAAAABdAAMc2NhbGEubmF0aXZlc3EAfgBncQB+AG1zcQB+AGdzcQB+AG9zcQB+AGd1cQB+AEoAAAAAc3EAfgBndXEAfgBKAAAAAHNxAH4AZ3VxAH4AnwAAAAJzcQB+AHpxAH4Ar3NxAH4AfnNxAH4AgXVxAH4AhAAAAANzcQB+AIZxAH4Ap3NxAH4AhnEAfgCpcQB+AItzcQB+AHpxAH4AsXNxAH4AfnNxAH4AgXVxAH4AhAAAAAJzcQB+AIZxAH4AiXEAfgCLdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAYS+0UEkdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAPi9ob21lL21lL0lkZWFQcm9qZWN0cy9TY2FsYV9Ib21ld29yay90YXJnZXQvc2NhbGEtMi4xMy9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUHDQjta83krkcZN6KihoL330ip9E=
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwEa4jyQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAfc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwyHZxfHQABm5vdGlmeXNxAH4ADFfhdlV0AAR3YWl0c3EAfgAMf8f/nHQABnNldEx2bHNxAH4ADKTR25p0AAZlcXVhbHNzcQB+AAyEGHGSdAAKaHczaV9rX2xfbXNxAH4ADIjgDYJ0AAhlbXBsb3llZXNxAH4ADJeCSv90AAxhc0luc3RhbmNlT2ZzcQB+AAz4tXyJdAAIZnVsbE5hbWVzcQB+AAwl4fxydAAMc3luY2hyb25pemVkc3EAfgAMzi3Q4nQAA2x2bHNxAH4ADAUO1Ut0AARtYWluc3EAfgAMLDhqxHQABGluZm9zcQB+AAwZDYXHdAAJbm90aWZ5QWxsc3EAfgAMGRpPenQADGlzSW5zdGFuY2VPZnNxAH4ADIZQtnl0AAZzYWxhcnlzcQB+AAx573PHdAAIbGFzdE5hbWVzcQB+AAy68cBidAAJZmlyc3ROYW1lc3EAfgAMaqpqEHQABjxpbml0PnNxAH4ADEd1sFN0AAI9PXNxAH4ADDlMDZZ0AAVjbG9uZXNxAH4ADBBaIPh0AARmdXp6c3EAfgAMwD+fG3QACGdpdmVSaXNlc3EAfgAMnwpWB3QACHRvU3RyaW5nc3EAfgAMjBNhvHQAAiE9c3EAfgAMuYkfanQACGdldENsYXNzc3EAfgAMfYMP+nQAAm5lc3EAfgAMkbuovnQAC3JpemVQZXJjZW50c3EAfgAMuebQJnQAAmVxc3EAfgAMH3u0UXQAAiMjc3EAfgAM0MyuL3QACGZpbmFsaXplc3EAfgAMMUGzOHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AVXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgAXdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQADHNjYWxhLm5hdGl2ZXNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBtc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFVMAAlpbmhlcml0ZWRxAH4AVUwAB3BhcmVudHNxAH4AVXhxAH4AcnNxAH4AbXVxAH4AUAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AVnEAfgBfdXEAfgBgAAAAAHNxAH4AYgBxAH4AI3VxAH4AZAAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBxdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AcXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AjXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AHp4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AGd0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AIFbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AHFzcQB+AIB0AAVBcnJheXEAfgCGdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AIB0AAZTdHJpbmdzcQB+AIRzcQB+AId1cQB+AIoAAAADc3EAfgCMdAAEamF2YXNxAH4AjHQABGxhbmdxAH4AkXNxAH4AbXVxAH4AUAAAAABzcQB+AG11cQB+AKUAAAACc3EAfgCAdAAGT2JqZWN0cQB+AKlzcQB+AIB0AANBbnlxAH4AhnNxAH4AUnEAfgBfdXEAfgBgAAAAAHNxAH4AYgBxAH4AGXVxAH4AZAAAAAB+cQB+AGZ0AAhDbGFzc0RlZnVxAH4AagAAAAF0AAxzY2FsYS5uYXRpdmVzcQB+AG1xAH4Ac3NxAH4AbXNxAH4AdXNxAH4AbXVxAH4AUAAAAABzcQB+AG11cQB+AFAAAAAAc3EAfgBtdXEAfgClAAAAAnNxAH4AgHEAfgC1c3EAfgCEc3EAfgCHdXEAfgCKAAAAA3NxAH4AjHEAfgCtc3EAfgCMcQB+AK9xAH4AkXNxAH4AgHEAfgC3c3EAfgCEc3EAfgCHdXEAfgCKAAAAAnNxAH4AjHEAfgCPcQB+AJF1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABhMPpPEB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA+L2hvbWUvbWUvSWRlYVByb2plY3RzL1NjYWxhX0hvbWV3b3JrL3RhcmdldC9zY2FsYS0yLjEzL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTQDr8e+CnJ+h6ZBjSq4ayH586urg==
 /home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3o.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwWw69ygAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAATc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwwFQ8cXQABm5vdGlmeXNxAH4ADEK90LB0AAR3YWl0c3EAfgAMGvyNYXQABmVxdWFsc3NxAH4ADEqiLZF0AARodzNvc3EAfgAMCPo76HQADGFzSW5zdGFuY2VPZnNxAH4ADD/uQa90AAxzeW5jaHJvbml6ZWRzcQB+AAxubiy4dAAEbWFpbnNxAH4ADIPvEYV0AAlub3RpZnlBbGxzcQB+AAyyOdS6dAAMaXNJbnN0YW5jZU9mc3EAfgAMc/c+oHQAAj09c3EAfgAMJaw9T3QABWNsb25lc3EAfgAM/Lbt8HQACHRvU3RyaW5nc3EAfgAMI4WgXHQAAiE9c3EAfgAMvQ3dRHQACGdldENsYXNzc3EAfgAMUTBG3XQAAm5lc3EAfgAM+uczcHQAAmVxc3EAfgAMUWAQvXQAAiMjc3EAfgAMmhjhBnQACGZpbmFsaXplc3EAfgAMo7gzjnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4APXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgAVdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQADHNjYWxhLm5hdGl2ZXNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBVc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AD1MAAlpbmhlcml0ZWRxAH4APUwAB3BhcmVudHNxAH4APXhxAH4AWnNxAH4AVXVxAH4AOAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4APnEAfgBHdXEAfgBIAAAAAHNxAH4ASgBxAH4AG3VxAH4ATAAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBZdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AWXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AdXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGJ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AE90AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AGlbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AFlzcQB+AGh0AAVBcnJheXEAfgBudXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGh0AAZTdHJpbmdzcQB+AGxzcQB+AG91cQB+AHIAAAADc3EAfgB0dAAEamF2YXNxAH4AdHQABGxhbmdxAH4AeXNxAH4AVXVxAH4AOAAAAABzcQB+AFV1cQB+AI0AAAACc3EAfgBodAAGT2JqZWN0cQB+AJFzcQB+AGh0AANBbnlxAH4AbnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAGEumvT9XVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AD4vaG9tZS9tZS9JZGVhUHJvamVjdHMvU2NhbGFfSG9tZXdvcmsvdGFyZ2V0L3NjYWxhLTIuMTMvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFA5Dtu41f6Zpp98BTBb3OrnBvycB
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwWw69ygAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAATc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwwFQ8cXQABm5vdGlmeXNxAH4ADEK90LB0AAR3YWl0c3EAfgAMGvyNYXQABmVxdWFsc3NxAH4ADEqiLZF0AARodzNvc3EAfgAMCPo76HQADGFzSW5zdGFuY2VPZnNxAH4ADD/uQa90AAxzeW5jaHJvbml6ZWRzcQB+AAxubiy4dAAEbWFpbnNxAH4ADIPvEYV0AAlub3RpZnlBbGxzcQB+AAyyOdS6dAAMaXNJbnN0YW5jZU9mc3EAfgAMc/c+oHQAAj09c3EAfgAMJaw9T3QABWNsb25lc3EAfgAM/Lbt8HQACHRvU3RyaW5nc3EAfgAMI4WgXHQAAiE9c3EAfgAMvQ3dRHQACGdldENsYXNzc3EAfgAMUTBG3XQAAm5lc3EAfgAM+uczcHQAAmVxc3EAfgAMUWAQvXQAAiMjc3EAfgAMmhjhBnQACGZpbmFsaXplc3EAfgAMo7gzjnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4APXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgAVdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQADHNjYWxhLm5hdGl2ZXNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBVc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AD1MAAlpbmhlcml0ZWRxAH4APUwAB3BhcmVudHNxAH4APXhxAH4AWnNxAH4AVXVxAH4AOAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4APnEAfgBHdXEAfgBIAAAAAHNxAH4ASgBxAH4AG3VxAH4ATAAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBZdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AWXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AdXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGJ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AE90AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AGlbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AFlzcQB+AGh0AAVBcnJheXEAfgBudXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGh0AAZTdHJpbmdzcQB+AGxzcQB+AG91cQB+AHIAAAADc3EAfgB0dAAEamF2YXNxAH4AdHQABGxhbmdxAH4AeXNxAH4AVXVxAH4AOAAAAABzcQB+AFV1cQB+AI0AAAACc3EAfgBodAAGT2JqZWN0cQB+AJFzcQB+AGh0AANBbnlxAH4AbnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAGEw+jjznVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AD4vaG9tZS9tZS9JZGVhUHJvamVjdHMvU2NhbGFfSG9tZXdvcmsvdGFyZ2V0L3NjYWxhLTIuMTMvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFEnzKD8OOFp5tEH7jU7KpXGsrLcL
 external apis:
 0 items
 source infos:
@@ -510,12 +557,12 @@ AAAAAAAAAAA=
 AAAAAAAAAAA=
 /home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3e_f_g_h.scala -> 
 AAAAAAAAAAA=
-/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3k.scala -> 
+/home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3i_k_l_m.scala -> 
 AAAAAAAAAAA=
 /home/me/IdeaProjects/Scala_Homework/src/main/scala/hw3o.scala -> 
 AAAAAAAAAAA=
 compilations:
-50 items
+68 items
 00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABhLnMha11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL21lL0lkZWFQcm9qZWN0cy9TY2FsYV9Ib21ld29yay90YXJnZXQvc2NhbGEtMi4xMy9jbGFzc2VzdAABLw==
 01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABhLnU+9R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL21lL0lkZWFQcm9qZWN0cy9TY2FsYV9Ib21ld29yay90YXJnZXQvc2NhbGEtMi4xMy9jbGFzc2VzdAABLw==
 02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABhLnVd9J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL21lL0lkZWFQcm9qZWN0cy9TY2FsYV9Ib21ld29yay90YXJnZXQvc2NhbGEtMi4xMy9jbGFzc2VzdAABLw==
@@ -566,3 +613,21 @@ compilations:
 47 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABhL7MKGJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL21lL0lkZWFQcm9qZWN0cy9TY2FsYV9Ib21ld29yay90YXJnZXQvc2NhbGEtMi4xMy9jbGFzc2VzdAABLw==
 48 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABhL7NapZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL21lL0lkZWFQcm9qZWN0cy9TY2FsYV9Ib21ld29yay90YXJnZXQvc2NhbGEtMi4xMy9jbGFzc2VzdAABLw==
 49 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABhL7RQSR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL21lL0lkZWFQcm9qZWN0cy9TY2FsYV9Ib21ld29yay90YXJnZXQvc2NhbGEtMi4xMy9jbGFzc2VzdAABLw==
+50 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABhL7oFTl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL21lL0lkZWFQcm9qZWN0cy9TY2FsYV9Ib21ld29yay90YXJnZXQvc2NhbGEtMi4xMy9jbGFzc2VzdAABLw==
+51 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABhL7sPdx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL21lL0lkZWFQcm9qZWN0cy9TY2FsYV9Ib21ld29yay90YXJnZXQvc2NhbGEtMi4xMy9jbGFzc2VzdAABLw==
+52 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABhL7tKWF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL21lL0lkZWFQcm9qZWN0cy9TY2FsYV9Ib21ld29yay90YXJnZXQvc2NhbGEtMi4xMy9jbGFzc2VzdAABLw==
+53 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABhL7u0xJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL21lL0lkZWFQcm9qZWN0cy9TY2FsYV9Ib21ld29yay90YXJnZXQvc2NhbGEtMi4xMy9jbGFzc2VzdAABLw==
+54 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABhMNEZal1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL21lL0lkZWFQcm9qZWN0cy9TY2FsYV9Ib21ld29yay90YXJnZXQvc2NhbGEtMi4xMy9jbGFzc2VzdAABLw==
+55 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABhMNFZAl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL21lL0lkZWFQcm9qZWN0cy9TY2FsYV9Ib21ld29yay90YXJnZXQvc2NhbGEtMi4xMy9jbGFzc2VzdAABLw==
+56 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABhMO7m3x1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL21lL0lkZWFQcm9qZWN0cy9TY2FsYV9Ib21ld29yay90YXJnZXQvc2NhbGEtMi4xMy9jbGFzc2VzdAABLw==
+57 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABhMO8DVF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL21lL0lkZWFQcm9qZWN0cy9TY2FsYV9Ib21ld29yay90YXJnZXQvc2NhbGEtMi4xMy9jbGFzc2VzdAABLw==
+58 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABhMPFSJt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL21lL0lkZWFQcm9qZWN0cy9TY2FsYV9Ib21ld29yay90YXJnZXQvc2NhbGEtMi4xMy9jbGFzc2VzdAABLw==
+59 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABhMPHvV11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL21lL0lkZWFQcm9qZWN0cy9TY2FsYV9Ib21ld29yay90YXJnZXQvc2NhbGEtMi4xMy9jbGFzc2VzdAABLw==
+60 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABhMPIpdd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL21lL0lkZWFQcm9qZWN0cy9TY2FsYV9Ib21ld29yay90YXJnZXQvc2NhbGEtMi4xMy9jbGFzc2VzdAABLw==
+61 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABhMPJKER1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL21lL0lkZWFQcm9qZWN0cy9TY2FsYV9Ib21ld29yay90YXJnZXQvc2NhbGEtMi4xMy9jbGFzc2VzdAABLw==
+62 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABhMPOfPZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL21lL0lkZWFQcm9qZWN0cy9TY2FsYV9Ib21ld29yay90YXJnZXQvc2NhbGEtMi4xMy9jbGFzc2VzdAABLw==
+63 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABhMPWGuB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL21lL0lkZWFQcm9qZWN0cy9TY2FsYV9Ib21ld29yay90YXJnZXQvc2NhbGEtMi4xMy9jbGFzc2VzdAABLw==
+64 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABhMPWj/d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL21lL0lkZWFQcm9qZWN0cy9TY2FsYV9Ib21ld29yay90YXJnZXQvc2NhbGEtMi4xMy9jbGFzc2VzdAABLw==
+65 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABhMPYJfN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL21lL0lkZWFQcm9qZWN0cy9TY2FsYV9Ib21ld29yay90YXJnZXQvc2NhbGEtMi4xMy9jbGFzc2VzdAABLw==
+66 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABhMPo4851cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL21lL0lkZWFQcm9qZWN0cy9TY2FsYV9Ib21ld29yay90YXJnZXQvc2NhbGEtMi4xMy9jbGFzc2VzdAABLw==
+67 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABhMPpPEB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9ob21lL21lL0lkZWFQcm9qZWN0cy9TY2FsYV9Ib21ld29yay90YXJnZXQvc2NhbGEtMi4xMy9jbGFzc2VzdAABLw==

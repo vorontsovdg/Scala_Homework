@@ -392,7 +392,7 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-reflect;2.13.10!scala-reflect.jar(src)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] net.java.dev.jna#jna;5.9.0!jna.jar(src)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-compiler;2.13.10!scala-compiler.jar(src)[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 22ms :: artifacts dl 1ms[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 9ms :: artifacts dl 0ms[0m
 [0m[[0mdebug[0m] [0m	report for scala_homework#scala_homework$sources_2.13;0.1.0-SNAPSHOT compile produced in /home/me/IdeaProjects/Scala_Homework/target/scala-2.13/resolution-cache/reports/scala_homework-scala_homework$sources_2.13-compile.xml[0m
 [0m[[0mdebug[0m] [0m	report for scala_homework#scala_homework$sources_2.13;0.1.0-SNAPSHOT runtime produced in /home/me/IdeaProjects/Scala_Homework/target/scala-2.13/resolution-cache/reports/scala_homework-scala_homework$sources_2.13-runtime.xml[0m
 [0m[[0mdebug[0m] [0m	report for scala_homework#scala_homework$sources_2.13;0.1.0-SNAPSHOT test produced in /home/me/IdeaProjects/Scala_Homework/target/scala-2.13/resolution-cache/reports/scala_homework-scala_homework$sources_2.13-test.xml[0m
@@ -406,4 +406,4 @@
 [0m[[0mdebug[0m] [0m	report for scala_homework#scala_homework$sources_2.13;0.1.0-SNAPSHOT docs produced in /home/me/IdeaProjects/Scala_Homework/target/scala-2.13/resolution-cache/reports/scala_homework-scala_homework$sources_2.13-docs.xml[0m
 [0m[[0mdebug[0m] [0m	report for scala_homework#scala_homework$sources_2.13;0.1.0-SNAPSHOT pom produced in /home/me/IdeaProjects/Scala_Homework/target/scala-2.13/resolution-cache/reports/scala_homework-scala_homework$sources_2.13-pom.xml[0m
 [0m[[0mdebug[0m] [0m	report for scala_homework#scala_homework$sources_2.13;0.1.0-SNAPSHOT scala-tool produced in /home/me/IdeaProjects/Scala_Homework/target/scala-2.13/resolution-cache/reports/scala_homework-scala_homework$sources_2.13-scala-tool.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (22ms resolve - 1ms download)[0m
+[0m[[0mdebug[0m] [0m	resolve done (9ms resolve - 0ms download)[0m
